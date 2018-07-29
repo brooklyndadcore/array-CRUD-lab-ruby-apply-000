@@ -1,13 +1,14 @@
 def create_an_empty_array
-  [ ]
+ return  [ ]
   
 end
 
 def create_an_array
-  
+  ["Hello", "World", "July", 2018]
 end
 
 def add_element_to_end_of_array(array, element)
+  
   
 end
 
